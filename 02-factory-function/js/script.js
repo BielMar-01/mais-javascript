@@ -70,5 +70,3 @@ Pessoa.prototype.andar = function() {
 }
 
 const designer3 = Pessoa('André');
-
-
