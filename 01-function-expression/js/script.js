@@ -1,3 +1,4 @@
+/*
 // FUNCTION DECLARATION
 // São duas as formas mais comuns de declararmos uma função. A que utilizamos até o momento é chamado de Function Declaration.
 function somar(a,b) {
@@ -75,3 +76,4 @@ const instrumento = 'Violão';
 })();
 
 console.log(instrumento); // Violão
+*/
