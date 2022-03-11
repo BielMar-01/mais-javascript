@@ -1,3 +1,4 @@
+/*
 // DESTRUCTURING
 // Permite a desestruturação de Arrays e Objetos. Atribuindo suas propriedades à novas variáveis.
 const carro = {
@@ -115,3 +116,4 @@ function handleKeyboard({key}) {
 }
 
 document.addEventListener('keyup', handleKeyboard);
+*/
